@@ -1,0 +1,4 @@
+App As appinfo:
+    MinScreenHeight: =320
+    MinScreenWidth: =320
+

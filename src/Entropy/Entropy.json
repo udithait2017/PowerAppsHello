@@ -1,0 +1,37 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Label1": 4,
+    "Label2": 5,
+    "Screen1": 3
+  },
+  "HeaderLastSavedDateTimeUTC": "10/15/2020 18:15:05",
+  "LocalResourceRootPaths": {},
+  "OldLogoFileName": "mqdfff3c.jpg",
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "MSNWeather": 0
+  },
+  "OrderGroupControls": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "label": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Label1": 0,
+    "Label2": 1,
+    "Screen1": 0
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0495983,
+    "ControlCount": {
+      "label": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.0238585
+  }
+}

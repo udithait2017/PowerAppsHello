@@ -1,0 +1,17 @@
+{
+  "ClientPerFileChecksums": {
+    "AppCheckerResult.sarif": "C4_Z4JL/Q1PZmvqQUU7xQG8Oel/eW5uU9zeSAMayDbk1w0=",
+    "Controls\\1.json": "C4_i/nZONIZOgC4iLFSoAm7DP5Syr4kNyjyxOH/3Wvm26w=",
+    "Controls\\3.json": "C4_4yrA+4aiEOB36o+m6IGaq0pgyur2xMnGA3qqBcOSdxs=",
+    "Header.json": "C4_tdLq9RgQBhOE4GDG+y3fL01N995h/W5cSxVDzcAoKS4=",
+    "Properties.json": "C4_xT3VPM/+auuxFgFoQs8Uf+q47pGsKx5sPeJC2ba9bFg=",
+    "References\\DataSources.json": "C4_dXkScH2mYpGGZ7ahgd864Zx5vsP51QYiH+eqPJV1KQ8=",
+    "References\\Resources.json": "C4_ByxTaKX/fUunYblfgfRMM6Jc0D1Dm0HrLerUoe62Aq8=",
+    "References\\Templates.json": "C4_r/YJwvIY1vRUzvPo1ixpXcJs2J9k5tRDyPb1QEKtt58=",
+    "References\\Themes.json": "C4_YM2V1y4gW89AN0Y04tA8NQkbnA7oE8OomTYPCGnuBvo=",
+    "Resources\\mqdfff3c.jpg": "C4_N9B86F6ItJmr2rmRmNRO/pdLZvv/GSJ4bL5dGuX5N2E=",
+    "Resources\\PublishInfo.json": "C4_x1siN6CSpjfIT6qhwnYallPgYF7+56Z4AAGy+zHcBcg="
+  },
+  "ClientStampedChecksum": "C4_CirJb1rhwlO/EdhS+hYMnZke2SCXzulADTfodzh2d8o=",
+  "ServerStampedChecksum": "C1_ZjUPs9XHnNGnqt17GZvsyGLTCD9yOPdKxNzcfHhsQ3k="
+}
